@@ -1,6 +1,6 @@
 ---
 - hosts: kubernetes-server
-  hosts: ansible-server
+  #hosts: ansible-server
   become: true
 
   tasks:
