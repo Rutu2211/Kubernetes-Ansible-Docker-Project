@@ -1,8 +1,8 @@
-#[ansible-server]
-#localhost
-
-[kubernetes-server]
+[ansible-server]
 localhost
+
+#[kubernetes-server]
+#localhost
 
 [kubernetes]
 54.82.243.183
