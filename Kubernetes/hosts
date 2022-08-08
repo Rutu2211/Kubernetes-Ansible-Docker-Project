@@ -1,4 +1,7 @@
-[ansible-server]
+#[ansible-server]
+#localhost
+
+[kubernetes-server]
 localhost
 
 [kubernetes]
